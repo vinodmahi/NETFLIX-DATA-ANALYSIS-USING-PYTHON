@@ -20,4 +20,4 @@ The commands that we used in this project :
 * dt.year.value_counts( ) - It counts the occurrence of all individual years in Time column.
 * groupby( ) - Groupby is used to split the data into groups based on some criteria.
 * sns.countplot(df['Col_name']) - To show the count of all unique values of any column in the form of bar graph.
-* max( ), min( ) - It shows the maximum/minimum value of the series.
+* max( ), min( ) - It shows the maximum/minimum value of the series
