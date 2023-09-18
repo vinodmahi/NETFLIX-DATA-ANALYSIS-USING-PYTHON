@@ -17,7 +17,7 @@ Introduction
 Netflix has become a major player in the entertainment industry, and understanding its content library and user preferences can provide valuable insights for content creators, advertisers, and investors. This data analysis project explores various aspects of Netflix's content and user ratings.
 
 Data
-The data used for this analysis was obtained from [source link]. It includes information about Netflix movies and TV shows, such as title, director, cast, release year, rating, duration, and more.
+The data used for this analysis was obtained from [https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies]. It includes information about Netflix movies and TV shows, such as title, director, cast, release year, rating, duration, and more.
 
 Analysis
 In this project, we conducted the following analyses:
